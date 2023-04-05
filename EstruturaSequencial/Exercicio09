@@ -1,0 +1,2 @@
+graus_fah = float(input("Informe os graus fahrenheit"))
+celsius = 
